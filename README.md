@@ -1,3 +1,5 @@
+
+### <div align="center">Hi</div>  
 ### <div align="center">I'm Jonathan, an indie game developer in the making👨‍💻🎮🕹️</div>  
   
 
